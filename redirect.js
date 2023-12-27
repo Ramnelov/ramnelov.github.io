@@ -1,3 +1,3 @@
 function redirectToUserApplication() {
-  window.location.href = "https://github.ramnelov.com/user-application";
+  window.location.href = "https://projects.ramnelov.com/user-application";
 }
