@@ -1,3 +1,3 @@
-function redirectToUserApplication() {
-  window.location.href = "https://projects.ramnelov.com/user-application";
+function redirectCourses() {
+  window.open("https://github.com/Ramnelov/courses_/", "_blank");
 }
